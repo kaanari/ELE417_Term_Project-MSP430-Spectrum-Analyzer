@@ -1,4 +1,4 @@
-[![GPL](https://img.shields.io/badge/license-GPL%20(%3E%3D%202)-blue)
+![GPL](https://img.shields.io/badge/license-GPL%20(%3E%3D%202)-blue)
 ---
 
 <h1 align="center">
