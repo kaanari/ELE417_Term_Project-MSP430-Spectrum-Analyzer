@@ -22,6 +22,9 @@
 
 This repository is created by kaanaritr and viorq. We presents our ELE417 Embedded System Course Term Project. The main goal was creating a guitar pedal in MSP430 but we had limited time. Therefore we just implemented the most exciting part, Tuner. It uses fixed point FFT (Fast Fourier Transform) to reveal frequency component of the guitar input.
 
+## Project Video
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/P-Latt5orT4/0.jpg)](https://www.youtube.com/watch?v=P-Latt5orT4)
 
 ## Built With
 
@@ -32,11 +35,11 @@ This repository is created by kaanaritr and viorq. We presents our ELE417 Embedd
 
 ## Authors
 
-* 👤**Kaan ARI**  - [kaanaritr](https://github.com/kaanaritr)
-* 👤**Ayşe İDMAN**  - [viorq](https://github.com/viorq)
+* 👤**Kaan ARI**  - [kaanari](https://github.com/kaanari)
+* 👤**Ayşe İDMAN**  - [ayseidman](https://github.com/ayseidman)
 
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](https://github.com/kaanaritr/Coursera-GDrive/blob/master/LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](https://github.com/kaanari/Coursera-GDrive/blob/master/LICENSE) file for details.
 
